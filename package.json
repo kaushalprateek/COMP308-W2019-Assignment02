@@ -1,5 +1,5 @@
 {
-  "name": "COMP308-w2019-ASSIGNMENT02",
+  "name": "comp308-w2019-assignment02",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaushalprateek/COMP308-w2019-ASSIGNMENT02.git"
+    "url": "git+https://github.com/kaushalprateek/COMP308-w2019-Assignment02.git"
   },
   "bugs": {
-    "url": "https://github.com/kaushalprateek/COMP308-w2019-ASSIGNMENT02/issues"
+    "url": "https://github.com/kaushalprateek/COMP308-w2019-Assignment02/issues"
   },
-  "homepage": "https://github.com/kaushalprateek/COMP308-w2019-ASSIGNMENT02#readme"
+  "homepage": "https://github.com/kaushalprateek/COMP308-w2019-Assignment02#readme"
 }
