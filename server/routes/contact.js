@@ -27,7 +27,7 @@ router.post("/add", contactController.processAddPage);
 router.get("/edit/:id", contactController.displayEditPage);
 
 /* POST request - Update the database with data from the Edit Page */
-router.post("/edit/:id", requireAuth, contactController.processEditPage);
+router.post("/edit/:id", contactController.processEditPage);
 
 /* GET request to perform the delete action */
 router.get("/delete/:id", contactController.performDelete);
